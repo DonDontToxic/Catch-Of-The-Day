@@ -8,8 +8,9 @@ Instruction:
 3. Start a localhost: "npm run dev"
 4. Build the project: "npm run build"
 
-Demo Link:
-https://catchofday.netlify.app/
-
 Applied techniques:
 React.js, FireBase, Netlify
+
+
+Demo Link:
+https://catchofday.netlify.app/
