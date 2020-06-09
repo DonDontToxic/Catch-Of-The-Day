@@ -11,6 +11,6 @@ Instruction:
 Applied techniques:
 React.js, FireBase, Netlify
 
+Live Demo:
 
-Demo Link:
 https://catchofday.netlify.app/
